@@ -59,7 +59,7 @@ $ vncviewer 0.0.0.0:49338
 Every test is executed in order. This should take ~6s.
 
 ```
-$ vendor/bin/phpunit --verbose --bootstrap vendor/autoload.php tests/Example_grid
+$ vendor/bin/phpunit --verbose --bootstrap vendor/autoload.php tests/ExampleGrid
 ```
 
 Output:
